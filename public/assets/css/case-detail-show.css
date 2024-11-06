@@ -1,0 +1,13 @@
+.read-less {
+    height: 20px;
+    overflow:hidden;
+}
+.read-more {
+    height: auto;
+}
+
+.container-fluid .table.table-striped{
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+}

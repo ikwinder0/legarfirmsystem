@@ -1,0 +1,13 @@
+.tbl-spa td, .tbl-spa th,
+.tbl-loan td, .tbl-loan th,
+.tbl-master-title-loan td, .tbl-master-title-loan th,
+.tbl-cost-of-assist-vendor td, .tbl-cost-of-assist-vendor th{
+    padding: 6px 12px;
+}
+
+.tbl-spa,
+.tbl-loan,
+.tbl-master-title-loan,
+.tbl-cost-of-assist-vendor{
+    margin-bottom: 0px;
+}
